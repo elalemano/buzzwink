@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530445142379.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EABA5637",
+    "lastKnownWriteTime" : 1521644046,
+    "last_content_update" : 1521644046,
+    "path" : "F:/GitHub/buzzwink/R/outersect.R",
+    "project_path" : "R/outersect.R",
+    "properties" : {
+        "cursorPosition" : "7,10",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 11,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

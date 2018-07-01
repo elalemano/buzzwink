@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530445143741.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "510650612",
+    "id" : "BF0CFB51",
+    "lastKnownWriteTime" : 1530445251,
+    "last_content_update" : 1530445251104,
+    "path" : "F:/GitHub/buzzwink/R/removeFromEndString.R",
+    "project_path" : "R/removeFromEndString.R",
+    "properties" : {
+        "cursorPosition" : "10,73",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 14,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

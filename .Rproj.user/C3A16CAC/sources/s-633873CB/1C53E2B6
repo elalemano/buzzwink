@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530445139909.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3590953213",
+    "id" : "1C53E2B6",
+    "lastKnownWriteTime" : 1521645036,
+    "last_content_update" : 1521645036,
+    "path" : "F:/GitHub/buzzwink/R/entryQueryDb.R",
+    "project_path" : "R/entryQueryDb.R",
+    "properties" : {
+    },
+    "relative_order" : 7,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

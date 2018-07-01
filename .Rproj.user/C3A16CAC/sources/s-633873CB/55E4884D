@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530445142832.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "55E4884D",
+    "lastKnownWriteTime" : 1521644752,
+    "last_content_update" : 1521644752,
+    "path" : "F:/GitHub/buzzwink/R/queryDb.R",
+    "project_path" : "R/queryDb.R",
+    "properties" : {
+        "cursorPosition" : "17,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1530445141019.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "390307863",
+    "id" : "C3DF435F",
+    "lastKnownWriteTime" : 1521644548,
+    "last_content_update" : 1521644548,
+    "path" : "F:/GitHub/buzzwink/R/getDbConnection.R",
+    "project_path" : "R/getDbConnection.R",
+    "properties" : {
+    },
+    "relative_order" : 9,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
