@@ -2,8 +2,7 @@ Package: buzzwink
 Type: Package
 Title: The package is a collection of custom functions I personally found useful for my work with R
 Version: 0.1.0
-Author: Busswinkel, Lukas
-Maintainer: l_busswinkel@hotmail.de
+Authors@R: as.person(c("Lukas Busswinkel <l_busswinkel@hotmail.de> [aut, cre]")) 
 Description: The primary purpose of this package is to avoid the copy-and-pasting of my own personal functions. If other people find them usful, even better
 License: Creative Commons
 Encoding: UTF-8
