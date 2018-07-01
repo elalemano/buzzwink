@@ -6,12 +6,12 @@
 #' @param queryEntry Character or numeric vector that represents te list of search terms
 #' @param ORALCE_UID Oracle data base user ID, set up as system variable
 #' @param ORALCE_PASS Oracle data base password, set up as system variable
-#' @param CON_STRING Oracle data base connections string, set up as system variable
+#' @param ORACLE_CON_STRING Oracle data base connections string, set up as system variable
 #' @export
 entryQueryDb <- function(sql_frame,queryEntry,data =NULL){
 
-  conString <- Sys.getenv("CON_STRING")
-  con <- getDbConnection(user_id = Sys.getenv("ORACLE_UID"), password = Sys.getenv("ORACLE_PASS"), conString)
+  conString <- Sys.getenv("ORACLE_CON_STRING")
+  con       <- getDbConnection(user_id = Sys.getenv("ORACLE_UID"), password = Sys.getenv("ORACLE_PASS"), conString)
 
 
   if(is.character(queryEntry)){

@@ -6,7 +6,7 @@
 #' @param n Cuttoff value for number of values that should not be NA (excluding n)
 #' @keywords NA
 #' @export
-deleteNaRows <- function(df, n=nrow(df)) {
+deleteNaRows <- function(df, n=nrow(df)){
   df <- df[rowSums(!is.na(df)) > n,]
   return(df)
 }
