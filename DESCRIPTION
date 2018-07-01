@@ -8,6 +8,6 @@ Description: The primary purpose of this package is to avoid the copy-and-pastin
 License: Creative Commons
 Encoding: UTF-8
 LazyData: true
-Imports: dplyr, htmltools
+Depends: dplyr, htmltools
 Suggests: ROracle 
 RoxygenNote: 6.0.1
